@@ -1,6 +1,7 @@
 # Bioinformatics: From Beginner to Expert
 
 [![](https://img.shields.io/badge/youtube-bioinforbricklayer-red.svg)](https://www.youtube.com/channel/UC9GCtpQdyJW2_Es8psxHGMw)
+[![](https://img.shields.io/badge/Bilibili-bioinforbricker-blue.svg)](https://space.bilibili.com/1605459521?spm_id_from=333.1007.0.0)
 
 This directory contains tutorials on various topics in bioinformatics, aimed at taking you from beginner to expert. The following topics are covered:
 
